@@ -1,2 +1,6 @@
 *.csv
 .DS_Store
+.vscode/
+*.png
+pp.ipynb
+*.dart
